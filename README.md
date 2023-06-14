@@ -1,6 +1,8 @@
 # 07-Auth-JWT-Node.js
 
-This is project 7/50 of my Node.js projects series. It's a Full Auth system involving signup, login, and protected routes using JWT. 
+This is project 7/50 of my Node.js projects series. 
+
+It's a Full Auth system involving signup, login, and protected routes using JWT. 
 
 The projet has all errors handled in global error handler middleware.
 
